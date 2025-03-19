@@ -21,11 +21,11 @@ This is a simple JavaScript Todo List application that allows users to create, e
 ## Installation & Setup
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-username/js-todo-list.git
+   git clone https://github.com/ArchivexBlasich/JSTodoList.git
    ```
 2. Navigate into the project directory:
    ```sh
-   cd js-todo-list
+   cd JSTodoList
    ```
 3. Install a simple HTTP server (if not installed):
    ```sh
